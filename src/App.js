@@ -47,7 +47,7 @@ class App extends Component {
   render() {
     return (
       <div className="container">
-        <h1 className="text-center">Sample Text Generator</h1>
+        <h1 className="text-center">React-TextGenerator</h1>
         <hr />
         <form clsssName="form-inline">
           <div className="form-group">
