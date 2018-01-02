@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React-TextGen",
+  "name": "React-TextGenerator",
   "icons": [
     {
       "src": "favicon.ico",
